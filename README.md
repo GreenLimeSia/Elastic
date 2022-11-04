@@ -1,5 +1,5 @@
 # Elastic
-An Adaptive Weight Modulation Method for Facial Image Editing
+A Subspace-based Method for Facial Image Editing
 
 # The trade-off between image reconstruction and editing
 </div>
