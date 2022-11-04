@@ -5,7 +5,7 @@ A Subspace-based Method for Facial Image Editing
 </div>
 <img src="./Elastic/Figs/problems.jpg" width="996" height="256"> 
 </div>
-Fig.1 A demo of maximum slope truncation (MST) strategy. The slope computed from a pre-trained ArcFace network is called Identity Slope. The first order derivative of a cosine based function is called Editing Slope. MST finds A and D, which have maximum absolute slope values. Its corresponding editing interval is (LA, RD). is a step size for image editing. Image artifacts are labeled with a red box in poorly edited images.
+The editing results along f′(X). MST finds A and B, which have maximum absolute slope values. Its corresponding editing interval is (αL, αR). Image artifacts are labeled with a red box in poorly edited images.
 
 # The Framework of proposed AWM and MST
 ![framework](https://user-images.githubusercontent.com/28706611/141061650-2cc48cec-66d2-4519-9d08-6e3e7cac1605.jpg)
